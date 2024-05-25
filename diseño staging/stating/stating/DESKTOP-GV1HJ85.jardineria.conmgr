@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-GV1HJ85.jardineria"
+  DTS:DTSID="{3ACAC6F4-93BA-4E4B-BC74-3DB301A10F1B}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-GV1HJ85;Initial Catalog=jardineria;Integrated Security=True;Encrypt=False;Application Name=SSIS-stating-{3ACAC6F4-93BA-4E4B-BC74-3DB301A10F1B}DESKTOP-GV1HJ85.jardineria;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

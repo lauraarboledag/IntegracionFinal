@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-GV1HJ85.Data_Mart"
+  DTS:DTSID="{13BD28E3-07D0-44AA-A20A-4FF0181EBBB8}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=DESKTOP-GV1HJ85;Initial Catalog=Data_Mart;Integrated Security=True;Encrypt=False;Application Name=SSIS-TransformacionesDM-{13BD28E3-07D0-44AA-A20A-4FF0181EBBB8}DESKTOP-GV1HJ85.Data_Mart;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
